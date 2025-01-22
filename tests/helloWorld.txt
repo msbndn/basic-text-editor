@@ -1,0 +1,6 @@
+Hello world!
+It is my first text editor!
+I know it is not perfect or great project,
+but I practice my OOP knowledge as well!
+And I hope you will find in this project my great desire to learn this beautiful language!
+All the best to you!
