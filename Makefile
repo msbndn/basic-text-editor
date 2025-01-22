@@ -13,7 +13,7 @@ SRCS = $(wildcard $(SRC_DIR)/*.cpp)
 OBJS = $(patsubst $(SRC_DIR)/%.cpp, $(BUILD_DIR)/%.o, $(SRCS))
 
 # Исполняемый файл
-TARGET = $(BUILD_DIR)/editor
+TARGET = $(BUILD_DIR)/basic-text-editor
 
 # Правило по умолчанию
 all: $(TARGET)
