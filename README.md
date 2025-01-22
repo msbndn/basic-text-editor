@@ -17,7 +17,7 @@
 1. Клонировать репозиторий с GitHub:
     ``` cmd
 	git clone https://github.com/msbndn/basic-text-editor.git
-	cd BasicTextEditor
+	cd basic-text-editor
     ```
 2. Собрать репозиторий:
     ``` cmd
@@ -25,7 +25,7 @@
     ```
 1. Запустить программу:
     ``` cmd
-	build\BasicTextEditor
+	build\basic-text-editor
     ```
 
 ## Структура данных
